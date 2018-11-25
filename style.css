@@ -1,0 +1,140 @@
+body {
+  margin: 0px;
+  background-image: url("halaman.jpg");
+  background-size: 100%;
+}
+
+.form1 {
+  float: right;
+  margin: auto;
+  color: white;
+  font-family: Segoe UI Semibold;
+  padding: 20px;
+  height: 50px;
+}
+
+#menu {
+  margin-top: -4px;
+  list-style-type: lower-alpha;
+  margin-bottom: 6px;
+  padding: 0px;
+  overflow: hidden;
+  float: left;
+  color: white;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 15px;
+  font-family: Segoe UI Semibold;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+
+}
+
+li {
+  float: left;
+  color: white;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 12px;
+  text-decoration: none;
+  font-size: 15px;
+  font-family: Segoe UI Semibold;
+}
+
+li a:hover {
+  background-color: rgb(112, 121, 202);
+}
+
+#wrapper {
+  margin: auto;
+  width: 100%;
+}
+
+#header {
+  height: 20px;
+}
+
+#logo {
+  float: left;
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+  margin-left: 20px;
+}
+
+#title {
+  text-align: left;
+  width: 400px;
+  color: White;
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: -40px;
+  margin-left: 50px;
+}
+
+#nav {
+  float: left;
+  width: 100%;
+  height: 60px;
+  margin-left: 0px;
+  background-color: rgb(26, 26, 214);
+}
+
+
+
+
+#colgambar {
+  float: left;
+  margin-left: 0px;
+  width: 250px;
+  height: 420px;
+  border: 4px solid white;
+}
+
+#content {
+  float: left;
+  margin-top: 0px;
+  margin-left: 3px;
+  width: 1088px;
+  height: 430px;
+  color: black;
+  background: white;
+}
+
+#event {
+  float: left;
+  margin-left: 0px;
+  width: 100%;
+  background-color: blue;
+  color: white;
+}
+
+#footer {
+  float: left;
+  background-color: blue;
+  color: white;
+  margin-left: 0px;
+  font-weight: bold;
+  height: 60px;
+  width: 100%;
+}
+
+#design {
+  float: right;
+  color: white;
+  margin: 10px;
+}
+
+@media screen and (max-width: 960px) {}

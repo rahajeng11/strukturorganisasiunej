@@ -1,0 +1,41 @@
+.text-h1{
+	color:#fff;
+	margin-top:90px;
+	padding-bottom:20px;
+	font-family:ubuntu;
+}
+.body{
+	width:380px;
+	height:350px;
+	border-radius:20px;
+	margin:auto;
+	background:#fff;
+}
+.input{
+	padding:30px;
+	margin-top:30px;
+	border:none;
+}
+button{
+	padding:10 px 55px;
+	border-radius:25px;
+	margin:auto 110px;
+	border:none;
+	margin-top:30px;
+	cursor:pointer;
+	background:#FF8600;
+	font-weight:bold;
+	color:#fff;
+	font-size:18px;
+}
+.table i{
+	padding-left:40px;
+	font-size:50px;
+	padding-top:25px;
+	color:#808080;
+}
+input::placeholder{
+	color:#808080;
+	font-size:20px;
+	font-family:lato;
+}
